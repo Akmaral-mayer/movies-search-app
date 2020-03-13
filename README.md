@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+***********************************************************
+Inspired by post from https://webomnizz.com/react-hooks-and-omdb-api-example/ =)
+
+***********************************************************
+
 ## Available Scripts
 
 In the project directory, you can run:
